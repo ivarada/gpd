@@ -34,8 +34,10 @@ We lack language to describe the high-bandwidth interface between human reasonin
 **A reasoning process between a human chain of thought and a computational latent structure, conducted through iterative exchange, that generates artifacts—text, images, analysis, documents—as output.**
 
 ---
+## Links
 
-[GPD V1.0](generative-productive-dialogue-framework-v1.0.md)
+- GIST - [https://tinyurl.com/vk-gpd](https://tinyurl.com/vk-gpd)
+- [GPD V1.0](generative-productive-dialogue-framework-v1.0.md)
 
 ---
 
