@@ -2,11 +2,9 @@
 
 ## A Framework for Describing Human-AI Reasoning Processes
 
-**Status:** First Proposal
-
-**Date:** December 5, 2025
-
-**Version:** 1.0
+- **Status:** First Proposal
+- **Date:** December 5, 2025
+- **Version:** 1.0
 
 ---
 
