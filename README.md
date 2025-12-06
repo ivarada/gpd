@@ -45,7 +45,8 @@ We lack language to describe the high-bandwidth interface between human reasonin
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
+- Documentation and framework content: [CC BY 4.0](LICENSE-CC-BY-4.0)
+- Code and scripts: [MIT License](LICENSE-MIT)
 
 ---
 
