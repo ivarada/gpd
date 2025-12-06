@@ -38,6 +38,7 @@ We lack language to describe the high-bandwidth interface between human reasonin
 
 - GIST - <a href="https://tinyurl.com/vk-gpd" target="_blank">https://tinyurl.com/vk-gpd</a>
 - [GPD v.1.1](GPD-v-1-1.md)
+- [Alternatives to GPD](Alternatives-to-GPD.md)
 - [GPD v.1.0](GPD-v-1-0.md)
 
 ---
