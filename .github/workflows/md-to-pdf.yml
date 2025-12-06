@@ -13,11 +13,11 @@ jobs:
     - name: Install TeX Live (LaTeX)
       run: sudo apt-get update && sudo apt-get install -y texlive
 
-    - name: Install pandoc
-      run: sudo apt-get install -y pandoc
+    - name: Install TeX Live (LaTeX and xelatex)
+      run: sudo apt-get update && sudo apt-get install -y texlive texlive-xetex
 
-    - name: Convert Markdown to PDF
-      run: pandoc generative-productive-dialogue-framework-v1.0.md -o generative-productive-dialogue-framework-v1.0.pdf
+    - name: Convert Markdown to PDF (xelatex)
+      run: pandoc generative-productive-dialogue-framework-v1.0.md -o generative-productive-dialogue-framework-v1.0.pdf --pdf-engine=xelatex
 
     - name: Upload PDF as workflow artifact
       uses: actions/upload-artifact@v4
