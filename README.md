@@ -1,6 +1,6 @@
 # Generative Productive Dialogue (GPD)
 
-![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.1-brightgreen.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Markdown](https://img.shields.io/badge/docs-Markdown-blue.svg)
 ![Stars](https://img.shields.io/github/stars/ivarada/gpd) 
@@ -37,7 +37,8 @@ We lack language to describe the high-bandwidth interface between human reasonin
 ## Links
 
 - GIST - <a href="https://tinyurl.com/vk-gpd" target="_blank">https://tinyurl.com/vk-gpd</a>
-- [GPD V1.0](generative-productive-dialogue-framework-v1.0.md)
+- [GPD v.1.1](GPD-v-1-1.md)
+- [GPD v.1.0](GPD-v-1-0.md)
 
 ---
 
