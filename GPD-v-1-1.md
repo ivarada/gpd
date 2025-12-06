@@ -8,6 +8,31 @@
 
 ---
 
+# Table of Contents
+
+- [A Framework for Describing Human-AI Reasoning Processes](#a-framework-for-describing-human-ai-reasoning-processes)
+- [The Problem: A Vocabulary Crisis](#the-problem-a-vocabulary-crisis)
+- [The Definition](#the-definition)
+- [A Note on "Dialogue"](#a-note-on-dialogue)
+- [Properties](#properties)
+- [What Each Party Brings](#what-each-party-brings)
+- [What GPD Is Distinct From](#what-gpd-is-distinct-from)
+- [What GPD Captures](#what-gpd-captures)
+- [Concrete Examples](#concrete-examples)
+- [When NOT to Use GPD](#when-not-to-use-gpd)
+- [Failure Modes](#failure-modes)
+- [Quality Control Framework](#quality-control-framework)
+- [Ethics and Attribution](#ethics-and-attribution)
+- [Citation Templates](#citation-templates)
+- [Styling Recommendations](#styling-recommendations)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Why This Framing Works](#why-this-framing-works)
+- [Visual Representation](#visual-representation)
+- [Future Considerations](#future-considerations)
+- [Appendix: Verification](#appendix-verification)
+- [Changes from v1.0](#changes-from-v10)
+  
+---
 ## The Problem: A Vocabulary Crisis
 
 When we use large language models to do serious work, we default to two metaphors—and both are wrong.
