@@ -1,5 +1,7 @@
 # Generative Productive Dialogue (GPD)
 
+![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+
 ## A Framework for Describing Human-AI Reasoning Processes
 
 ---
