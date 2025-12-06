@@ -36,7 +36,7 @@ We lack language to describe the high-bandwidth interface between human reasonin
 ---
 ## Links
 
-- GIST - [https://tinyurl.com/vk-gpd](https://tinyurl.com/vk-gpd)
+- GIST - <a href="https://tinyurl.com/vk-gpd" target="_blank">https://tinyurl.com/vk-gpd</a>
 - [GPD V1.0](generative-productive-dialogue-framework-v1.0.md)
 
 ---
