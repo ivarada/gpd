@@ -1,6 +1,12 @@
 # Generative Productive Dialogue (GPD)
 
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Markdown](https://img.shields.io/badge/docs-Markdown-blue.svg)
+
+**License:** 📄 MIT  
+**Docs Format:** 📑 Markdown
+
 
 ## A Framework for Describing Human-AI Reasoning Processes
 
