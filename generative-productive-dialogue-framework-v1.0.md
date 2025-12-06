@@ -7,6 +7,23 @@
 
 ---
 
+## Table of Contents
+
+- [Generative Productive Dialogue (GPD)](#generative-productive-dialogue-gpd)
+- [The Problem: A Vocabulary Crisis](#the-problem-a-vocabulary-crisis)
+- [The Definition](#the-definition)
+- [Properties](#properties)
+- [What Each Party Brings](#what-each-party-brings)
+- [What GPD Is Distinct From](#what-gpd-is-distinct-from)
+- [What GPD Captures](#what-gpd-captures)
+- [Citation Templates](#citation-templates)
+- [Styling Recommendations](#styling-recommendations)
+- [Why This Framing Works](#why-this-framing-works)
+- [Visual Representation](#visual-representation)
+- [Appendix: Verification](#appendix-verification)
+
+---
+
 ## The Problem: A Vocabulary Crisis
 
 When we use large language models to do serious work, we default to two metaphors—and both are wrong.
