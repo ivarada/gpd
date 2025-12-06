@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Markdown](https://img.shields.io/badge/docs-Markdown-blue.svg)
+![Stars](https://img.shields.io/github/stars/ivarada/gpd) 
 
 **License:** 📄 MIT  
 **Docs Format:** 📑 Markdown
