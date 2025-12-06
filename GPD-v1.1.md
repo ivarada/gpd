@@ -3,7 +3,7 @@
 ## A Framework for Describing Human-AI Reasoning Processes
 
 **Status:** Second Draft (v1.1)  
-**Date:** December 5, 2025  
+**Date:** December 6, 2025  
 **Previous:** v1.0 (initial proposal)
 
 ---
@@ -618,4 +618,4 @@ _This document (v1.1) was developed through Generative Productive Dialogue—a p
 **Version History:**
 
 - v1.0 (Dec 5, 2025): Initial proposal
-- v1.1 (Dec 5, 2025): Comprehensive revision adding ethics, failure modes, quality control, examples, FAQ, and boundaries
+- v1.1 (Dec 6, 2025): Comprehensive revision adding ethics, failure modes, quality control, examples, FAQ, and boundaries
