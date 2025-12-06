@@ -1,0 +1,25 @@
+name: Convert Markdown to PDF
+
+on:
+  workflow_dispatch: # Manual trigger only
+
+jobs:
+  md-to-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up pandoc
+      run: sudo apt-get update && sudo apt-get install -y pandoc
+
+    - name: Convert Markdown to PDF
+      run: |
+        pandoc generative-productive-dialogue-framework-v1.0.md -o generative-productive-dialogue-framework-v1.0.pdf
+
+    - name: Upload PDF as workflow artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: generated-pdf
+        path: generative-productive-dialogue-framework-v1.0.pdf
