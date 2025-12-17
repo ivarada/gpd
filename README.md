@@ -45,6 +45,7 @@ We lack language to describe the high-bandwidth interface between human reasonin
 ## Links
 
 - [GPD v1.2](GPD-v-1-2.md) — Current Framework
+
 - [NIST AI 200-1: AI Use Taxonomy](NIST-Ai-200-1.md)
 - [GPD v1.1](GPD-v-1-1.md) — Version 1.1
 - [Alternatives to GPD](Alternatives-to-GPD.md) — Other approaches to human-AI accountability
