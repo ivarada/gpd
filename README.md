@@ -10,6 +10,10 @@
 
 ---
 
+## [GPD v1.2](GPD-v-1-2.md) — Current Framework
+
+---
+
 ## The Problem: A Vocabulary Crisis
 
 When we use large language models to do serious work, we default to two metaphors—and both are wrong.
