@@ -10,7 +10,7 @@
 
 ---
 
-## [GPD v1.2](GPD-v-1-2.md) — Current Framework
+### [GPD v1.2](GPD-v-1-2.md) — Current Framework
 
 ---
 
